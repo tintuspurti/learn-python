@@ -11,4 +11,4 @@ print(profit_per_bag)
 
 #cal for 500 bag
 total_profit_of_bag = profit_per_bag * number_of_bags
-print(" total profit of bag =" , total_profit_of_bag)
+print(" total profit of bags =" , total_profit_of_bag)
