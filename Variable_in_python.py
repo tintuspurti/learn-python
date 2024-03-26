@@ -13,4 +13,3 @@ print(profit_per_bag)
 total_profit_of_bag = profit_per_bag * number_of_bags
 print(" total profit of bags =" , total_profit_of_bag)
 """test commit again"""
-
