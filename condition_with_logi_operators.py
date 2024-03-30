@@ -27,7 +27,6 @@ my_fev_no>=3
 #less than equal check 
 3+6<=9
 my_fev_no+a_neutral_no<=3
-
 cost_of_ice =1.25
 is_ice_bag_expensive= cost_of_ice >=10
 print("is that ice bag expensive? " ,is_ice_bag_expensive)
